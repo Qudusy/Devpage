@@ -1,0 +1,114 @@
+body{
+	font-family: Arial, san-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+}
+
+header{
+	background: linear-gradient(to right, #f39c12, #e74c3c);
+	color: white;
+	text-align: center;
+	padding: 2px;
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+section{
+	padding: 20px;
+}
+
+section article{
+	background: linear-gradient(to bottom right, #f9f9f9, #e5e5e5);
+	margin-bottom: 20px;
+	background-color: #ffffff;
+	border-radius: 8px;
+	padding: 20px;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.testimonial {
+  background: linear-gradient(to right, #3498db, #9b59b6); /* Gradient background */
+  color: white; /* Text color */
+  border-radius: 8px; /* Rounded corners */
+  padding: 20px; /* Padding for content */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+}
+
+.testimonial h2 {
+  font-size: 24px; /* Heading font size */
+  margin-bottom: 10px; /* Space below heading */
+}
+
+.testimonial p {
+  font-size: 16px; /* Paragraph font size */
+  line-height: 1.5; /* Line height for readability */
+}
+
+
+footer{
+	background: linear-gradient(to right, #3498db, #9b59b6);
+	color: white;
+	text-align: center;
+	padding: 10px 0;
+	box-shadow: 0px -4px 5px rgba(0, 0, 0, 0.1);
+}
+
+.facts {
+	background: linear-gradient(to right, #e74c3c, #f39c12);
+	color: white;
+	border-radius: 8px;
+	padding: 20px;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+	margin-bottom: 5px;
+	opacity: 0.9;
+}
+
+.action-call {
+  text-align: center;
+}
+
+.action-call h2 {
+  color: #333; /* Adjust the color as needed */
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.action-call p {
+  color: #666; /* Adjust the color as needed */
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.action-call a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #3498db; /* Change to your preferred color */
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.action-call a:hover {
+  background-color: #2980b9; /* Darker shade for hover effect */
+}
+.events {
+  background: linear-gradient(to right, #3498db, #9b59b6); /* Gradient background */
+  color: white; /* Text color */
+  border-radius: 8px; /* Rounded corners */
+  padding: 20px; /* Padding for content */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.events h2 {
+  font-size: 24px; /* Heading font size */
+  margin-bottom: 10px; /* Space below heading */
+}
+
+.events p {
+  font-size: 16px; /* Paragraph font size */
+  line-height: 1.5; /* Line height for readability */
+}
